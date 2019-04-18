@@ -1,0 +1,13 @@
+{
+"companyName": "DefaultCompany",
+"productName": "CatIO",
+"dataUrl": "CatIO review.data.unityweb",
+"wasmCodeUrl": "CatIO review.wasm.code.unityweb",
+"wasmFrameworkUrl": "CatIO review.wasm.framework.unityweb",
+"TOTAL_MEMORY": 536870912,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Light",
+"backgroundColor": "#524F50",
+"cacheControl": {"default": "must-revalidate"}
+}
